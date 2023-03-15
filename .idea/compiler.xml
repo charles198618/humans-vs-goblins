@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="humans-vs-goblins" target="11" />
+      <module name="humans-vs-goblins" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>
